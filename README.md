@@ -9,5 +9,5 @@ Storing is working
 Retrieve needs some works : loading Anchors by named location, persiting Anchors Ids using CosmoDB or eq
 
 
-#ARFeedbacks Viewer
+# ARFeedbacks Viewer
 This UWP app is an experiment to load and visualize Spatial Anchors
